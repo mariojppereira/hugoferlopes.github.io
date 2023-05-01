@@ -3,7 +3,7 @@ title: "Geopolitics and Strategy"
 collection: teaching
 type: "BA in Political Science and International Relations"
 permalink: /teaching/2020-Geopolitics-and-Strategy
-venue: "University of Beira Interior, Faculty of Social and Human Sciences, Department of Sociology"
+venue: "University of Beira Interior"
 date: 2020-09-23
 location: "Covilhã, Portugal"
 ---
