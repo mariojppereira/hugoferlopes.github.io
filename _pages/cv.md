@@ -12,7 +12,7 @@ redirect_from:
 {% capture written_label %}'None'{% endcapture %}
 <br/>
 
-<embed src="https://drive.google.com/file/d/1VEOAqgvPqL6jhBW5zTnK85RwtNY0_o55/view?usp=share_link" type="application/pdf" width="100%" />
+<embed src="Academic_Curriculum_Vitae (16).pdf" type="application/pdf" width="100%" />
 
 
 
