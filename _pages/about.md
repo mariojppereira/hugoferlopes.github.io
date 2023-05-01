@@ -14,7 +14,7 @@ I am a #firstgen PhD Candidate in Comparative Politics at the [Institute of Soci
 
 My thesis focuses on the dynamics of party membership and how it related to new types of political parties. Specifically, when and how members choose between the loyal, voice, or exit options, how (different types of) parties (can) try to preempt future conflict with their members and how it relates to political ambition and political incentives. By levering both observational, qualitative and experimental data, I am at contributing to the understanding of intra-party conflict and party system change.
 
-I am a passionate for teaching with a keen research interest in political institutions (namely, political parties), political representation, elections, political attitudes and behavior and youth in politics. Part of my work has been published in <i>International Political Science Review<\i>, <i>Journal of Elections, Public Opinion and Parties</i>, <i>Transfer – European Review of Labour and Research<\i> and <i>West European Politics</i>, among other outlets. 
+I am a passionate for teaching with a keen research interest in political institutions (namely, political parties), political representation, elections, political attitudes and behavior and youth in politics. Part of my work has been published in <i>International Political Science Review<\i>, <i>Journal of Elections, Public Opinion and Parties</i>, <i>Transfer – European Review of Labour and Research</i> and <i>West European Politics</i>, among other outlets. 
 
 Here you can find more about me, my [research](https://hugoferrinholopes.github.io/publications/), some [teaching materials](https://hugoferrinholopes.github.io/teaching/) and my [short CV](https://hugoferrinholopes.github.io/cv/).
 
