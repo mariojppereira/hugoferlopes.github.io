@@ -13,7 +13,7 @@ redirect_from:
 If the embedded PDF below does not load, you can <u><a href="https://stuartgeiger.com/geiger-cv.pdf">download it here.</a></u>
 <br/>
 
-<embed src="Academic_Curriculum_Vitae (16).pdf" type="application/pdf" width="100%" />
+<embed src="https://github.com/hugoferrinholopes/hugoferrinholopes.github.io/blob/master/Academic_Curriculum_Vitae%20(16).pdf" type="application/pdf" width="100%" />
 
 
 
