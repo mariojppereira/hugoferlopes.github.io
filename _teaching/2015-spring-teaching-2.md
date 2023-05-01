@@ -4,7 +4,7 @@ collection: teaching
 type: "Digital Politics, Postgraduation in Political Psichology"
 permalink: /teaching/Lusofona
 venue: "Faculty of Social Sciences, Education and Administration"
-date: 2023
+date: 2023-01-23
 location: "Lisbon, Portugal"
 ---
 
