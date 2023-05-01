@@ -3,7 +3,7 @@ title: "Lusofona University"
 collection: teaching
 type: "Digital Politics, Postgraduation in Political Psichology"
 permalink: /teaching/Lusofona
-venue: "Lusofona University, Faculty of Social Sciences, Education and Administration"
+venue: "Faculty of Social Sciences, Education and Administration"
 date: 2023
 location: "Lisbon, Portugal"
 ---
