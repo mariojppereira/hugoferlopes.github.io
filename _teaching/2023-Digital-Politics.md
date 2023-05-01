@@ -3,7 +3,7 @@ title: "Digital Politics"
 collection: teaching
 type: "Postgraduation in Political Psichology"
 permalink: /teaching/2023-Digital-Politics
-venue: "Lusofona University, Faculty of Social Sciences, Education and Administration"
+venue: "Lusofona University"
 date: 2023-01-23
 location: "Lisbon, Portugal"
 ---
