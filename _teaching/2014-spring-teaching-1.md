@@ -1,14 +1,18 @@
 ---
-title: "Teaching experience 1"
+title: "University of Beira Interior"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Faculty of Social and Human Sciences, Department of Sociology"
+date: 2020-2022
+location: "Covilhã, Portugal"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Local and Regional Politics (2021/2022)
+Political Analysis (2021/2022)
+International Organizations (2020/2021)
+Geopolitics and Strategy (2020/2021)
+European Union Institutions and Policies (2020/2021)
 
 Heading 1
 ======
