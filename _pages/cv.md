@@ -10,6 +10,7 @@ redirect_from:
 
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
+<br/>
 
 <embed src="https://github.com/hugoferrinholopes/hugoferrinholopes.github.io/edit/master/_pages/cv.md#:~:text=Academic_Curriculum_Vitae" type="application/pdf" width="100%" />
 
