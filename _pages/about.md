@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Welcome to my website!
+
+I am a #firstgen PhD Candidate in Comparative Politics at the [Institute of Social Sciences, University of Lisbon](https://www.ics.ulisboa.pt/). From 2023 to 2024, I am also Visiting PhD Researcher at the [Department of Political and Social Sciences](https://www.eui.eu/en/academic-units/political-and-social-sciences) of the [European University Institute](https://www.eui.eu/en/home) in beautiful Florence.
+
+My thesis focuses on the dynamics of party membership and how it related to new types of political parties. Specifically, when and how members choose between the loyal, voice, or exit options, how (different types of) parties (can) try to preempt future conflict with their members and how it relates to political ambition and political incentives. By levering both observational, qualitative and experimental data, I am at contributing to the understanding of intra-party conflict and party system change.
+
+I am a passionate for teaching with a keen research interest in political institutions (namely, political parties), political representation, elections, political attitudes and behavior and youth in politics. Part of my work has been published in <i>International Political Science Review<\i>, <i>Journal of Elections, Public Opinion and Parties</i>, <i>Transfer – European Review of Labour and Research<\i> and <i>West European Politics</i>, among other outlets. 
+
+Here you can find more about me, my [research](https://hugoferrinholopes.github.io/publications/), some [teaching materials](https://hugoferrinholopes.github.io/teaching/) and my [short CV](https://hugoferrinholopes.github.io/cv/).
+
+Don't hesitate to reach out if you have any questions, feedback or want to schedule a [coffee](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cnbc.com%2F2022%2F10%2F27%2Fbeer-is-on-pace-to-lose-its-leading-share-of-the-us-alcohol-market.html&psig=AOvVaw32RUgMP0CCckz_P1s_WBCh&ust=1683045313714000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDPrcLG1P4CFQAAAAAdAAAAABAE). Feel free to email me at [hugo.lopes@ics.ulisboa.pt](hugo.lopes@ics.ulisboa.pt)
+
+
+=====
+
+(https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
