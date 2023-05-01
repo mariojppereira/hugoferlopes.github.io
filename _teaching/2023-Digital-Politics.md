@@ -2,7 +2,7 @@
 title: "Digital Politics"
 collection: teaching
 type: "Postgraduation in Political Psichology"
-permalink: https://www.dropbox.com/s/v7wrnwpbf76ft63/Syllabus_Politica_Digital.pdf?dl=0
+permalink: 
 venue: "Lusofona University"
 date: 2023-01-23
 location: "Lisbon, Portugal"
