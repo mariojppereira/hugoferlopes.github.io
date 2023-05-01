@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-If the embedded PDF below does not load, you can <u><a href="https://stuartgeiger.com/geiger-cv.pdf">download it here.</a></u>
+If the embedded PDF does not load, <u><a href="https://drive.google.com/file/d/1VEOAqgvPqL6jhBW5zTnK85RwtNY0_o55/view?usp=share_link">download it here.</a></u>
 <br/>
 
 <embed src="https://github.com/hugoferrinholopes/hugoferrinholopes.github.io/blob/master/Academic_Curriculum_Vitae%20(16).pdf" type="application/pdf" width="100%" />
