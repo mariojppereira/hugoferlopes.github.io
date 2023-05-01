@@ -12,7 +12,9 @@ redirect_from:
 {% capture written_label %}'None'{% endcapture %}
 <br/>
 
-<embed src="https://github.com/hugoferrinholopes/hugoferrinholopes.github.io/edit/master/_pages/cv.md#:~:text=Academic_Curriculum_Vitae" type="application/pdf" width="100%" />
+<embed src="https://drive.google.com/file/d/1VEOAqgvPqL6jhBW5zTnK85RwtNY0_o55/view?usp=share_link" type="application/pdf" width="100%" />
+
+
 
 
 
