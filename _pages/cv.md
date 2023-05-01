@@ -9,6 +9,7 @@ redirect_from:
 
 
 {% include base_path %}
+{% capture written_label %}'None'{% endcapture %}
 
 If the embedded PDF does not load, <u><a href="https://drive.google.com/file/d/1VEOAqgvPqL6jhBW5zTnK85RwtNY0_o55/view?usp=share_link">download it here.</a></u>
 <br/>
