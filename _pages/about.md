@@ -10,15 +10,15 @@ redirect_from:
 
 Welcome to my website!
 
-I am a #firstgen PhD Candidate in Comparative Politics at the [Institute of Social Sciences, University of Lisbon](https://www.ics.ulisboa.pt/). From 2023 to 2024, I am also Visiting PhD Researcher at the [Department of Political and Social Sciences](https://www.eui.eu/en/academic-units/political-and-social-sciences) of the [European University Institute](https://www.eui.eu/en/home) in beautiful Florence.
+I am a #firstgen PhD candidate in Comparative Politics at the [Institute of Social Sciences, University of Lisbon](https://www.ics.ulisboa.pt/). From 2023 to 2024, I am at the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences) ](https://www.eui.eu/en/home) in Florence as a Visiting PhD Researcher.
 
-My thesis focuses on the dynamics of party membership and how it related to new types of political parties. Specifically, when and how members choose between the loyal, voice, or exit options, how (different types of) parties (can) try to preempt future conflict with their members and how it relates to political ambition and political incentives. By levering both observational, qualitative and experimental data, I am at contributing to the understanding of intra-party conflict and party system change.
+My thesis focuses on the dynamics of party membership and its relation to political ambition and political incentives, examining how members choose between the loyal, voice, or exit options, and how parties can preempt future conflict with their members. By levering both observational, qualitative and experimental data, I am at contributing to the understanding of intra-party conflict and party system change.
 
-I am a passionate for teaching with a keen research interest in political institutions (namely, political parties), political representation, elections, political attitudes and behavior and youth in politics. Part of my work has been published in <i>International Political Science Review</i>, <i>Journal of Elections, Public Opinion and Parties</i>, <i>Transfer – European Review of Labour and Research</i> and <i>West European Politics</i>, among other outlets. 
+I am passionate about teaching and have a keen research interest in political institutions (particularly, political parties), political representation, elections, political attitudes and behavior and youth in politics. My work has been published, inter alia, in journal such as <i>International Political Science Review</i>, <i>Journal of Elections, Public Opinion and Parties</i>, <i>Transfer – European Review of Labour and Research</i> and <i>West European Politics</i>. 
 
-Here you can find more about me, my [research](https://hugoferrinholopes.github.io/publications/), some [teaching materials](https://hugoferrinholopes.github.io/teaching/) and my [short CV](https://hugoferrinholopes.github.io/cv/).
+Here you can find more about me, my [research](https://hugoferrinholopes.github.io/publications/), access some [teaching materials](https://hugoferrinholopes.github.io/teaching/) and view my [short CV](https://hugoferrinholopes.github.io/cv/).
 
-Don't hesitate to reach out if you have any questions, feedback or want to schedule a [coffee](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cnbc.com%2F2022%2F10%2F27%2Fbeer-is-on-pace-to-lose-its-leading-share-of-the-us-alcohol-market.html&psig=AOvVaw32RUgMP0CCckz_P1s_WBCh&ust=1683045313714000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDPrcLG1P4CFQAAAAAdAAAAABAE). Feel free to email me at [hugo.lopes@ics.ulisboa.pt](hugo.lopes@ics.ulisboa.pt)
+If you have any questions, feedback, or would like to schedule a beer, please don’t hesitate to reach out to me at [hugo.lopes@ics.ulisboa.pt](hugo.lopes@ics.ulisboa.pt)
 
 
 =====
