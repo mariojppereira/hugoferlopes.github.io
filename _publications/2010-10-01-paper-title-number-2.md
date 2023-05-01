@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "An unexpected Socialist majority: the 2022 Portuguese general elections"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2023-WEP
+excerpt: 'The Portuguese elections of early 2022 took place during the most severe wave of COVID-19 infections in Portugal. Nevertheless, the pandemic was not the most important issue in the campaign. Although opinion polls forecast a narrow election, the Socialists gained their second absolute majority in history. The electoral results marked a breakthrough for the radical right and Liberals. Every other traditional party had its worst electoral night in democratic history. The Christian Democrats and the Greens ended up exiting the parliament. The 2022 general elections saw the Socialists rise to dominance and the end of the Portuguese exceptionalism in keeping the radical right at arm’s length.'
+date: 2023
+venue: 'West European Politics'
+paperurl: 'https://www.tandfonline.com/doi/full/10.1080/01402382.2022.2070983'
+citation: 'Ferrinho Lopes, H. (2023). &quot;An unexpected Socialist majority: the 2022 Portuguese general elections.&quot; <i>West European Politics</i>. 46(2), 437-450.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://www.tandfonline.com/doi/pdf/10.1080/01402382.2022.2070983?casa_token=LcYisGvvnAgAAAAA:crAT_E-1iAN4OAOFmhm-S3WVaQplB5ayAlIESzTYBNLhh7yegYlg9JL5K7w0uOAvdUJYpASwsS0Lwg)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+<b>Ferrinho Lopes, H.</b> (2023). "An unexpected Socialist majority: the 2022 Portuguese general elections." <i>West European Politics</i>. 46(2), 437-450.
