@@ -2,6 +2,7 @@
 title: "Sailing Uncharted Waters with Old Boats: COVID-19 and the digitalization and professionalization of presidential campaigns in Portugal"
 collection: publications
 permalink: /publication/2023-SocSci
+excerpt: 
 date: 2023-01-01
 venue: 'Social Sciences'
 paperurl: 'https://www.mdpi.com/2076-0760/12/1/45'
