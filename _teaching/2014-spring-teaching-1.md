@@ -1,7 +1,7 @@
 ---
 title: "University of Beira Interior"
 collection: teaching
-type: "Undergraduate course"
+type: ""
 permalink: /teaching/2014-spring-teaching-1
 venue: "Faculty of Social and Human Sciences, Department of Sociology"
 date: 2020-09-23
