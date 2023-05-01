@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Lusofona University"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Digital Politics, Postgraduation in Political Psichology"
+permalink: /teaching/Lusofona
+venue: "Lusofona University, Faculty of Social Sciences, Education and Administration"
+date: 2023
+location: "Lisbon, Portugal"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
