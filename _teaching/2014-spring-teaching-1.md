@@ -1,7 +1,7 @@
 ---
 title: "University of Beira Interior"
 collection: teaching
-type: ""
+type: "BA in Political Science and International Relations"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Faculty of Social and Human Sciences, Department of Sociology"
 date: 2020-09-23
@@ -17,12 +17,3 @@ location: "Covilhã, Portugal"
 [Geopolitics and Strategy](https://www.dropbox.com/s/iq8erfamo2fito3/FUC\%20Geopol\%C3\%ADtica\%20e\%20Estrat\%C3\%A9gia\%202020\%3A2021.pdf?dl=0) (2020/2021)
 
 [European Union Institutions and Policies](https://www.dropbox.com/s/ozncj6a9ifbtsks/FUC%20IPUE%202020-2021.pdf?dl=0) (2020/2021)
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
