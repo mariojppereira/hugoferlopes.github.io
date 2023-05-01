@@ -8,7 +8,7 @@ date: 2023
 location: "Lisbon, Portugal"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+[Digital Politics](https://www.dropbox.com/s/v7wrnwpbf76ft63/Syllabus_Politica_Digital.pdf?dl=0) (2022/2023)
 
 Heading 1
 ======
