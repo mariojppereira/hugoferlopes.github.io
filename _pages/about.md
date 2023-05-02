@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website
+Welcome to my website!
 ======
 
 I am a #firstgen PhD candidate in Comparative Politics at the [Institute of Social Sciences, University of Lisbon](https://www.ics.ulisboa.pt/). From 2023 to 2024, I am at the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences) in Florence as a visiting PhD researcher.
