@@ -10,9 +10,9 @@ redirect_from:
 
 Welcome to my website!
 
-I am a #firstgen PhD candidate in Comparative Politics at the [Institute of Social Sciences, University of Lisbon](https://www.ics.ulisboa.pt/). From 2023 to 2024, I am at the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences) ](https://www.eui.eu/en/home) in Florence as a Visiting PhD Researcher.
+I am a #firstgen PhD candidate in Comparative Politics at the [Institute of Social Sciences, University of Lisbon](https://www.ics.ulisboa.pt/). From 2023 to 2024, I am at the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences) ](https://www.eui.eu/en/home) in Florence as a visiting PhD researcher.
 
-My thesis focuses on the dynamics of party membership and its relation to political ambition and political incentives, examining how members choose between the loyal, voice, or exit options, and how parties can preempt future conflict with their members. By levering both observational, qualitative and experimental data, I am at contributing to the understanding of intra-party conflict and party system change.
+My thesis explores the dynamics of party membership, specifically examining how members choose between options of loyalty, voice, or exit, and how parties can preempt future conflicts with their members. The framework I aim to build will shed light on the extent to which these dynamics relate to political ambition and incentives. By using a combination of observational, qualitative, and experimental data, I aim to contribute to a deeper understanding of intra-party conflict and party system change.
 
 I am passionate about teaching and have a keen research interest in political institutions (particularly, political parties), political representation, elections, political attitudes and behavior and youth in politics. My work has been published, inter alia, in <i>International Political Science Review</i>, <i>Journal of Elections, Public Opinion and Parties</i>, <i>Transfer: European Review of Labour and Research</i> and <i>West European Politics</i>. 
 
