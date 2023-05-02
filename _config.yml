@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hugo Ferrinho Lopes"
-  avatar           : "images/IMG_4726.jpg"
+  avatar           : "/IMG_4726.jpg"
   bio              : "PhD Candidate in Comparative Politics <br> <br> <a style='color: black;' href='https://www.ics.ulisboa.pt/en/'>Institute of Social Sciences, University of Lisbon</a>"
   location         : "Lisbon, Portugal"
   employer         :
