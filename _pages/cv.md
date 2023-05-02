@@ -14,8 +14,6 @@ redirect_from:
 If the embedded PDF does not load, <u><a href="https://drive.google.com/file/d/1VEOAqgvPqL6jhBW5zTnK85RwtNY0_o55/view?usp=share_link">download it here.</a></u>
 <br/>
 
-# <embed src="https://hugoferrinholopes.github.io/blob/master/Academic_Curriculum_Vitae%20(16).pdf" type="application/pdf" width="100%" />
-
 
 Education
 ======
