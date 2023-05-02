@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my website!
 
-I am a #firstgen PhD candidate in Comparative Politics at the [Institute of Social Sciences, University of Lisbon](https://www.ics.ulisboa.pt/). From 2023 to 2024, I am at the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences) ](https://www.eui.eu/en/home) in Florence as a visiting PhD researcher.
+I am a #firstgen PhD candidate in Comparative Politics at the [Institute of Social Sciences, University of Lisbon](https://www.ics.ulisboa.pt/). From 2023 to 2024, I am at the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences) in Florence as a visiting PhD researcher.
 
 My thesis explores the dynamics of party membership, specifically examining how members choose between options of loyalty, voice, or exit, and how parties can preempt future conflicts with their members. The framework I aim to build will shed light on the extent to which these dynamics relate to political ambition and incentives. By leveraging observational, qualitative, panel and experimental data, I aim to contribute to a deeper understanding of intra-party conflict and party system change.
 
