@@ -1,7 +1,7 @@
 ---
 title: "Public Preferences and Political Decision-making"
 collection: talks
-type: "Talk"
+type: "Research intern"
 permalink: /talks/cies
 venue: "CIES, Iscte-IUL"
 date: 2012-03-01
