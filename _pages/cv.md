@@ -19,9 +19,9 @@ If the embedded PDF does not load, <u><a href="https://drive.google.com/file/d/1
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BA in Political Science and International Relations, University of Beira Interior, 2011
+* Msc in Political Science, Iscte-University Institute of Lisbon, 2019
+* PhD in Comparative Politics, Institute of Social Sciences, University of Lisbon, 2026 (expected)
 
 Work experience
 ======
