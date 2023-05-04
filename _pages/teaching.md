@@ -46,9 +46,3 @@ University of Beira Interior, <i>BA in Political Science and International Relat
 
 [Syllabus](https://www.dropbox.com/s/iq8erfamo2fito3/FUC%20Geopol%C3%ADtica%20e%20Estrat%C3%A9gia%202020%3A2021.pdf?dl=0) (in Portuguese)
 
-
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
