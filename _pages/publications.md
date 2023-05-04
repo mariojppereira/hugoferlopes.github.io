@@ -58,11 +58,6 @@ Ferrinho Lopes, H., Silveira, P., & Lopes, A. H. (2021). <i>[Sub-representação
 * Media coverage: [Público](https://www.publico.pt/2022/11/28/politica/noticia/aqui-ninguem-tweetou-debate-jovens-mostraram-querem-participar-2029537) and [Rádio Renascença](https://rr.sapo.pt/especial%5C/politica/2022/01/27/pedro-silveira-os-governos-nao-podem-ser-um-one-man-show/269893/). Outreach: [IPAM](https://www.ipam.pt/blog/participacao-jovem-na-era-digital/) and [Ecclesia](https://agencia.ecclesia.pt/portal/ha-uma-sub-representacao-cronica-das-novas-geracoes-na-politica-rita-saias/).
 
 
-## Thesis
-
-Ferrinho Lopes, H. (2019). <i>[Coesão intrapartidária no Portugal pós-troika: Tipos de militantes e (in)congruência ideológica](https://www.researchgate.net/publication/337797732_Coesao_intrapartidaria_no_Portugal_pos-troika_tipos_de_militantes_e_incongruencia_ideologica)</i> (Master dissertation). Lisbon: Iscte-University Institute of Lisbon.
-
-
 ## Other (peer reviewed)
 
 Ferrinho Lopes, H. (2017). [Salazarismo: autoritarismo ou fascismo? A União Nacional em perspectiva organizacional e comparativa](http://www.observatoriopolitico.pt/wp-content/uploads/2017/11/WP_76_HL.pdf). <i><b>Observatório Político</b>, Working Paper 76</i>, 1-17.
