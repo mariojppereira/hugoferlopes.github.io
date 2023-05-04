@@ -42,11 +42,34 @@ You can also check my publications on <u><a href="https://scholar.google.pt/cita
 
 12. Santos, N., & <b>Ferrinho Lopes, H.</b> (2023). A Produção académica em Portugal. In Camerlo, M. (Ed.). <i>[Democracia em Portugal 2022. Caderno do Observatório da Qualidade da Democracia](https://www.ics.ulisboa.pt/livros/democracia-em-portugal-2022)</i>. Lisbon: Imprensa de Ciências Sociais.
 
-13. Costa, B. F., & <b>Ferrinho Lopes, H.</b> (2022). [Nonprofit and Government Relations](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003170563-18/nonprofit-government-relations-bruno-ferreira-costa-hugo-ferrinho-lopes?context=ubx&refId=e7773832-d07f-49c1-99e2-9634eed1fd0d). In Gonçalves, G., & Oliveira, E. (Eds.). <i>[The Routledge Handbook of Nonprofit Communication](https://www.routledge.com/The-Routledge-Handbook-of-Nonprofit-Communication/Goncalves-Oliveira/p/book/9780367771775)<i/>. London: Routledge.
+13. Costa, B. F., & <b>Ferrinho Lopes, H.</b> (2022). [Nonprofit and Government Relations](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003170563-18/nonprofit-government-relations-bruno-ferreira-costa-hugo-ferrinho-lopes?context=ubx&refId=e7773832-d07f-49c1-99e2-9634eed1fd0d). In Gonçalves, G., & Oliveira, E. (Eds.). <i>[The Routledge Handbook of Nonprofit Communication](https://www.routledge.com/The-Routledge-Handbook-of-Nonprofit-Communication/Goncalves-Oliveira/p/book/9780367771775)</i>. London: Routledge.
 
 14. <b>Ferrinho Lopes, H.</b>, & Bondarenko, A. (2022). [The integration of the Eastern and Western Balkans into the EU and NATO. A longitudinal and integrated analysis](https://www.igi-global.com/chapter/the-integration-of-the-eastern-and-western-balkans-into-the-eu-and-nato/295606). In Costa, B. F. (Ed.). <i>[Challenges and Barriers to the European Union Expansion to the Balkan Region](https://www.igi-global.com/book/challenges-barriers-european-union-expansion/275497)</i>. Hershey: IGI Global.
 
 15. Silveira, P., & <b>Ferrinho Lopes, H.</b> (2020). Governo, segundo Marina Costa Lobo. In Camerlo, M., Malamud, A., & Vaz-Pinto, R. (Eds.). <i>[Ciência Política à Portuguesa. A disciplina contada pelos seus protagonistas](https://repositorio.ul.pt/bitstream/10451/47033/1/ICS_MCamerlo_Ciencia.pdf)</i>. Lisbon: Imprensa de Ciências Sociais.
+
+
+## Briefs and Reports
+
+16. <b>Ferrinho Lopes, H.</b>, Nina, S. R., Santos, N., & Hanenberg, L. (2023). <i>[Ciência Política Portuguesa. Evolução e caraterísticas da produção científica indexada](https://oqd.ics.ulisboa.pt/webwp/wp-content/uploads/2023/01/2023-Research-Brief-OQD-1.pdf)</i>. Research Brief. Lisbon: Observatory of the Quality of Democracy.
+
+17. <b>Ferrinho Lopes, H.</b>, Silveira, P., & Lopes, A. H. (2021). <i>[Sub-representação de uma Geração. Jovens na Assembleia da República, Governo e Parlamento Europeu (1976-2019)](https://www.opj.ics.ulisboa.pt/wp-content/uploads/ICS-Policy-Brief-2021.pdf)</i>. Research Brief. Lisbon: Permanent Youth Observatory.
+* Media coverage: [Público](https://www.publico.pt/2022/11/28/politica/noticia/aqui-ninguem-tweetou-debate-jovens-mostraram-querem-participar-2029537) and [Rádio Renascença](https://rr.sapo.pt/especial%5C/politica/2022/01/27/pedro-silveira-os-governos-nao-podem-ser-um-one-man-show/269893/). Outreach: [IPAM](https://www.ipam.pt/blog/participacao-jovem-na-era-digital/) and [Ecclesia](https://agencia.ecclesia.pt/portal/ha-uma-sub-representacao-cronica-das-novas-geracoes-na-politica-rita-saias/).
+
+
+## Thesis
+
+18. <b>Ferrinho Lopes, H.</b> (2019). <i>[Coesão intrapartidária no Portugal pós-troika: Tipos de militantes e (in)congruência ideológica](https://www.researchgate.net/publication/337797732_Coesao_intrapartidaria_no_Portugal_pos-troika_tipos_de_militantes_e_incongruencia_ideologica)</i> (Master dissertation). Lisbon: Iscte-University Institute of Lisbon.
+
+
+## Other (peer reviewed)
+
+19. <b>Ferrinho Lopes, H.</b> (2017). Salazarismo: autoritarismo ou fascismo? A União Nacional em perspectiva organizacional e comparativa. <b><i>Observatório Político</b>, Working Paper 76</i>, 1-17.
+
+20. <b>Ferrinho Lopes, H.</b> (2016). Os conceitos de liberdade e segurança em Thomas Hobbes: conjunção ou disjunção? <b><i>Observatório Político</b>, Working Paper 59</i>, 1-12.
+
+21. <b>Ferrinho Lopes, H.</b> (2014). As Virtudes do Homem Bom. Um paralelismo entre Platão e Aristóteles. <b><i>LusoSofia</b></i>, 1-34.
+
 
 
 
