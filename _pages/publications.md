@@ -64,11 +64,11 @@ You can also check my publications on <u><a href="https://scholar.google.pt/cita
 
 ## Other (peer reviewed)
 
-19. <b>Ferrinho Lopes, H.</b> (2017). Salazarismo: autoritarismo ou fascismo? A União Nacional em perspectiva organizacional e comparativa. <b><i>Observatório Político</b>, Working Paper 76</i>, 1-17.
+19. <b>Ferrinho Lopes, H.</b> (2017). [Salazarismo: autoritarismo ou fascismo? A União Nacional em perspectiva organizacional e comparativa](http://www.observatoriopolitico.pt/wp-content/uploads/2017/11/WP_76_HL.pdf). <i>Observatório Político, Working Paper 76</i>, 1-17.
 
-20. <b>Ferrinho Lopes, H.</b> (2016). Os conceitos de liberdade e segurança em Thomas Hobbes: conjunção ou disjunção? <b><i>Observatório Político</b>, Working Paper 59</i>, 1-12.
+20. <b>Ferrinho Lopes, H.</b> (2016). [Os conceitos de liberdade e segurança em Thomas Hobbes: conjunção ou disjunção?](http://www.observatoriopolitico.pt/wp-content/uploads/2016/03/WP_59_HFL.pdf) <i>Observatório Político, Working Paper 59</i>, 1-12.
 
-21. <b>Ferrinho Lopes, H.</b> (2014). As Virtudes do Homem Bom. Um paralelismo entre Platão e Aristóteles. <b><i>LusoSofia</b></i>, 1-34.
+21. <b>Ferrinho Lopes, H.</b> (2014). [As Virtudes do Homem Bom. Um paralelismo entre Platão e Aristóteles](http://www.lusosofia.net/textos/20140517-lopes_hugo_2014_virtudes_homem_bom.pdf). <i>LusoSofia</i>, 1-34.
 
 
 
