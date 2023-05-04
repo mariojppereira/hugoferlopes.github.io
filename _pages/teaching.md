@@ -7,7 +7,7 @@ author_profile: true
 
 ## Digital Politics
 
-Lusofona University, <i>Postgraduation in Political Psichology</i> (2022/2023)
+Lusófona University, <i>Postgraduation in Political Psichology</i> (2022/2023)
 
 [Syllabus](https://www.dropbox.com/s/v7wrnwpbf76ft63/Syllabus_Politica_Digital.pdf?dl=0) (in Portuguese)
 
