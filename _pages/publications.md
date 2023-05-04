@@ -65,7 +65,7 @@ Ferrinho Lopes, H. (2019). <i>[Coesão intrapartidária no Portugal pós-troika:
 
 ## Other (peer reviewed)
 
-Ferrinho Lopes, H. (2017). [Salazarismo: autoritarismo ou fascismo? A União Nacional em perspectiva organizacional e comparativa](http://www.observatoriopolitico.pt/wp-content/uploads/2017/11/WP_76_HL.pdf). <b><i>Observatório Político</b>, Working Paper 76</i>, 1-17.
+Ferrinho Lopes, H. (2017). [Salazarismo: autoritarismo ou fascismo? A União Nacional em perspectiva organizacional e comparativa](http://www.observatoriopolitico.pt/wp-content/uploads/2017/11/WP_76_HL.pdf). <i><b>Observatório Político</b>, Working Paper 76</i>, 1-17.
 
 Ferrinho Lopes, H. (2016). [Os conceitos de liberdade e segurança em Thomas Hobbes: conjunção ou disjunção?](http://www.observatoriopolitico.pt/wp-content/uploads/2016/03/WP_59_HFL.pdf) <i><b>Observatório Político</b>, Working Paper 59</i>, 1-12.
 
