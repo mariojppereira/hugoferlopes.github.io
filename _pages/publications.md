@@ -17,7 +17,7 @@ Ferrinho Lopes, H. (2023). [An unexpected Socialist majority: the 2022 Portugues
 
 Santana-Pereira, J., Ferrinho Lopes, H., & Nina, S. R. (2023). [Sailing Uncharted Waters with Old Boats: COVID-19 and the digitalization and professionalization of presidential campaigns in Portugal](https://www.mdpi.com/2076-0760/12/1/45). <b><i>Social Sciences</i></b>. 12(1), 45.
 
-Nascimento, A., & Ferrinho Lopes, H. (2020). [How we have been productive when Coronavirus locked us out of University](https://repositorio.ul.pt/bitstream/10451/45557/1/ICS_ANascimento_How.pdf). <b><i>Fennia - International Journal of Geography</i></b>, 198(1–2), 243-246.
+Nascimento, A., & Ferrinho Lopes, H. (2020). [How we have been productive when Coronavirus locked us out of University](https://repositorio.ul.pt/bitstream/10451/45557/1/ICS_ANascimento_How.pdf). <b><i>Fennia – International Journal of Geography</i></b>, 198(1–2), 243-246.
 
 Freire, A., Cabrita, L., Duarte, M. C., & Ferrinho Lopes, H. (2017). [Workers’ EU political alignments during the Great Recession](https://journals.sagepub.com/doi/10.1177/1024258917696239). <b><i>Transfer: European Review of Labour and Research</i></b>, 23(4), 387-408.
 
