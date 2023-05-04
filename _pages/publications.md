@@ -7,7 +7,7 @@ redirect_from:
   - /wordpress/academic-papers/
 ---
 
-You can also check my <u><a href="https://scholar.google.pt/citations?user=vK-y0CYAAAAJ&hl=pt-PT">Google Scholar profile</a>.</u>
+You can also check my <a href="https://scholar.google.pt/citations?user=vK-y0CYAAAAJ&hl=pt-PT">Google Scholar profile</a>.
 
 ## Journal Articles
 
