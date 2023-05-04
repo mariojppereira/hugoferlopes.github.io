@@ -5,6 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Digital Politics
+
+
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
