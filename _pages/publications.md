@@ -37,7 +37,7 @@ Ferrinho Lopes, H. (forthcoming). Famílias partidárias e executivos nacionais 
 Ferrinho Lopes, H., & Figueira, P. (forthcoming). Elites ministeriais e recrutamento de partidos liberais em seis democracias europeias (2000-2020). In Costa, B. F. (Ed.). <i>Liberalismo. Da Teoria à Formação de Governos</i>. Lisbon: Alêtheia.
 
 Ferrinho Lopes, H., & Figueira, P. (forthcoming). Apêndice. Opções metodológicas fundamentais. In Costa, B. F. (Ed.). <i>Liberalismo. Da Teoria à Formação de Governos.</i> Lisbon: Alêtheia.
-<ins>(Autonomous appendix with the methodological options of the two chapters above)</ins>
+(Autonomous appendix with the methodological options of the two chapters above)
 
 Ferrinho Lopes, H., Santana Pereira, J., & Nina, S. R. (forthcoming). Business as usual ou novo normal? As campanhas presidenciais de 2021 em Portugal. In Freire, A., Accornero, G., Queiroga, V., Santana Pereira, J., Rocha, H. B., & Asensio, M. (Eds.). <i>Da Austeridade à Pandemia. Portugal e a Europa entre as crises e as inovações</i>. Lisbon: Mundos Sociais.
 
