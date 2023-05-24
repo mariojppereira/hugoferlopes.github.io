@@ -39,7 +39,7 @@ Ferrinho Lopes, H., & Figueira, P. (forthcoming). [Elites ministeriais e recruta
 Ferrinho Lopes, H., & Figueira, P. (forthcoming). [Apêndice. Opções metodológicas fundamentais](https://www.dropbox.com/s/d3lmxwruxumwett/Cap%C3%ADtulo%20metodol%C3%B3gico%20v9%2022-04-2023.pdf?dl=0). In Costa, B. F. (Ed.). <i>Liberalismo. Da Teoria à Formação de Governos.</i> Lisbon: Alêtheia.
 (Autonomous appendix with the methodological options of the two chapters above)
 
-Ferrinho Lopes, H., Santana Pereira, J., & Nina, S. R. (forthcoming). [<i>Business as usual ou novo normal?</i> As campanhas presidenciais de 2021 em Portugal](https://www.dropbox.com/s/4r1bivgs6q3rkfm/HFL%2C%20JSP%20%26%20SRN%2022-03-2022%20revisto%20vers%C3%A3o%20final%203.pdf?dl=0). In Freire, A., Accornero, G., Queiroga, V., Santana Pereira, J., Rocha, H. B., & Asensio, M. (Eds.). <i>Da Austeridade à Pandemia. Portugal e a Europa entre as crises e as inovações</i>. Lisbon: Mundos Sociais.
+Ferrinho Lopes, H., Santana Pereira, J., & Nina, S. R. (forthcoming). [<i>Business as usual</i> ou novo normal? As campanhas presidenciais de 2021 em Portugal](https://www.dropbox.com/s/4r1bivgs6q3rkfm/HFL%2C%20JSP%20%26%20SRN%2022-03-2022%20revisto%20vers%C3%A3o%20final%203.pdf?dl=0). In Freire, A., Accornero, G., Queiroga, V., Santana Pereira, J., Rocha, H. B., & Asensio, M. (Eds.). <i>Da Austeridade à Pandemia. Portugal e a Europa entre as crises e as inovações</i>. Lisbon: Mundos Sociais.
 
 Santos, N., & Ferrinho Lopes, H. (2023). A Produção académica em Portugal. In Camerlo, M. (Ed.). <i>[Democracia em Portugal 2022. Caderno do Observatório da Qualidade da Democracia](https://www.ics.ulisboa.pt/livros/democracia-em-portugal-2022)</i>. Lisbon: Imprensa de Ciências Sociais.
 
