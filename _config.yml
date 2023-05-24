@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hugo Ferrinho Lopes"
 title_separator          : "-"
 name                     : &name "Hugo Ferrinho Lopes"
-description              : &description "PhD Candidate in Comparative Politics"
+description              : &description "PhD candidate in Comparative Politics"
 url                      : https://hugoferrinholopes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hugo Ferrinho Lopes"
   avatar           : "IMG_47262.jpg"
-  bio              : "PhD Candidate in Comparative Politics <br> <br> <a style='color: black;' href='https://www.ics.ulisboa.pt/en/'>Institute of Social Sciences, University of Lisbon</a>"
+  bio              : "PhD candidate in Comparative Politics <br> <br> <a style='color: black;' href='https://www.ics.ulisboa.pt/en/'>Institute of Social Sciences, University of Lisbon</a>"
   location         : "Lisbon, Portugal"
   employer         :
   pubmed           : 
