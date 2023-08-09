@@ -20,7 +20,7 @@ You can also check my <a href="https://scholar.google.pt/citations?user=vK-y0CYA
 
 ## Books
 
-* Almeida, L. F. M., Costa, C., Gomes, N., Ferrinho Lopes, H., & Maia, T. (forthcoming). <i>A Participação dos Jovens nos Municípios e os Conselhos Municipais da Juventude</i>. Braga: AEDREL.
+* Almeida, L. F. M., Costa, C., Gomes, N., Ferrinho Lopes, H., & Maia, T. (2023). <i>A Participação dos Jovens nos Municípios e os Conselhos Municipais da Juventude</i>. Coimbra: ValorGlocal.
 
 ## Book chapters
 
