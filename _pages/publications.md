@@ -20,7 +20,7 @@ You can also check my <a href="https://scholar.google.pt/citations?user=vK-y0CYA
 
 ## Books
 
-* Almeida, L. F. M., Costa, C., Gomes, N., Ferrinho Lopes, H., & Maia, T. (2023). <i>A Participação dos Jovens nos Municípios e os Conselhos Municipais da Juventude</i>. Coimbra: ValorGlocal.
+* Almeida, L. F. M., Costa, C., Gomes, N., Ferrinho Lopes, H., & Maia, T. (2023). <i>[A Participação dos Jovens nos Municípios e os Conselhos Municipais da Juventude](https://cvel.pt/ramel/livro-conselhos-nacionais-de-juventude/)</i>. Coimbra: ValorGlocal.
   * Media coverage: [Jornal de Notícias](https://www.jn.pt/2122761049/metade-dos-municipios-nao-tem-conselho-municipal-da-juventude/)
 
 ## Book chapters
