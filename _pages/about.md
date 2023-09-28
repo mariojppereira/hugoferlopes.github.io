@@ -11,7 +11,7 @@ redirect_from:
 Welcome to my website!
 ======
 
-I am a PhD candidate in Comparative Politics at the [Institute of Social Sciences, University of Lisbon](https://www.ics.ulisboa.pt/), with a grant from the Foundation for Science and Technology (FCT). From 2023 to 2024, I am visiting PhD researcher at the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences).
+I am a PhD candidate in Comparative Politics at the [Institute of Social Sciences, University of Lisbon](https://www.ics.ulisboa.pt/). Currently, I am visiting PhD researcher at the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences).
 
 I am interested in political institutions (particularly, political parties), political representation, elections, political attitudes and behavior and youth in politics. My work has been published, inter alia, in <i>West European Politics</i>, <i>International Political Science Review</i>, and <i>Transfer: European Review of Labour and Research</i>. 
 
