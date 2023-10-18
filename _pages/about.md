@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website!
+Thank you for your visit!
 ======
 
 I am a PhD candidate in Comparative Politics at the [Institute of Social Sciences, University of Lisbon](https://www.ics.ulisboa.pt/). Currently, I am visiting PhD researcher at the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences).
