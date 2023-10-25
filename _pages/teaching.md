@@ -25,11 +25,11 @@ author_profile: true
 - "Political parties and citizen electoral groups," short course on Municipal Law (invited by Luís F. Mota Almeida, Tiago Serrão, and Manuel Ferreira Ramos), Coimbra Business School (with the National Association of Municipal Assemblies and Center for the Valorization of Local Elected Representatives), Online. (17/10/2023).
 - "The political system of the United Kingdom," BA in Political Science and International Relations (invited by Vinicius Albernaz), University of Beira Interior, Portugal. (03/03/2023)
 - "Comparison as a method of political research," BA in Political Science and International Relations (invited by Susana Rogeiro Nina), Lusófona University, Portugal. (10/11/2022).
-- "Second-order elections: are transnational lists a way to Europeanize elections?," Msc in International Studies (invited by Sabrina Cavatorto), University of Siena, Italy. (26/05/2022).
+- "Second-order elections and the EU's transnational constituency," Msc in International Studies (invited by Sabrina Cavatorto), University of Siena, Italy. (26/05/2022).
 - "Comparative Politics," Msc in International Studies (invited by Francesco Marangoni), University of Siena, Italy. (25/05/2022).
 - "Constraining dissensus and the EU's democratic deficit," Msc in International Studies (invited by Sabrina Cavatorto), University of Siena, Italy. (24/05/2022).
 - "The Portuguese political system in comparative perspective," BA in Political Science (invited by Paolo Bellucci), University of Siena, Italy. (23/05/2022).
-- "Electoral system reform in Portugal. Insights from the national and regional levels," BA in Political Science and International Relations (invited by Susana Rogeiro Nina), Lusófona University, Portugal. (12/01/2021).
+- "Electoral system reform at the national and regional levels in Portugal," BA in Political Science and International Relations (invited by Susana Rogeiro Nina), Lusófona University, Portugal. (12/01/2021).
 - "Business as usual or a new normal? Presidential campaigns amid a pandemic crisis in Portugal," Msc in Political Science (invited by José Santana-Pereira), Iscte-University Institute of Lisbon, Portugal. (09/11/2021).
 - "Hypotheses and Causal Inference," Msc in International Relations (invited by Guilherme Marques Pedro), University of Beira Interior, Portugal. (27/05/2020).
 - "Statistical and Experimental Methods," BA in Political Science and International Relations (invited by Pedro Silveira), University of Beira Interior, Portugal. (08/05/2020).
