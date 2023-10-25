@@ -28,7 +28,8 @@ You can also check my <a href="https://scholar.google.pt/citations?user=vK-y0CYA
 * Ferrinho Lopes, H., & Heyne, L. (forthcoming). [Método Comparativo em Ciência Política](https://www.dropbox.com/s/tkeijmt3ec7ihfv/M%C3%A9todo%20Comparativo%20em%20Ci%C3%AAncia%20Pol%C3%ADtica%20rev.%20HFL%20%26%20LH%2005-04-2023.pdf?dl=0). In Nina, S. R., Reis, L., Silveira, P., & Terrenas, J. (Eds.). <i>Manual de Métodos de Investigação em Ciência Política e Relações Internacionais</i>. Coimbra: Almedina.
 * Ferrinho Lopes, H. (forthcoming). [Famílias partidárias e executivos nacionais em seis democracias. Governos liberais em perspetiva comparada (2000-2020)](https://www.dropbox.com/s/esljwqlzyfblt5c/Cap%C3%ADtulo%204.%20HFL%20v4%2022-04-2023.pdf?dl=0). In Costa, B. F. (Ed.). <i>Liberalismo. Da Teoria à Formação de Governos</i>. Coimbra: Almedina.
 * Ferrinho Lopes, H., & Figueira, P. (forthcoming). [Elites ministeriais e recrutamento de partidos liberais em seis democracias europeias (2000-2020)](https://www.dropbox.com/s/v3nxleojis0i1ab/Cap%C3%ADtulo%205.%20HFL%20%26%20PF%20v5%2022-04-2023.pdf?dl=0). In Costa, B. F. (Ed.). <i>Liberalismo. Da Teoria à Formação de Governos</i>. Coimbra: Almedina.
-    * Autonomous appendix with the methodological options of the two chapters above: Ferrinho Lopes, H., & Figueira, P. (forthcoming). [Opções metodológicas fundamentais](https://www.dropbox.com/s/d3lmxwruxumwett/Cap%C3%ADtulo%20metodol%C3%B3gico%20v9%2022-04-2023.pdf?dl=0). In Costa, B. F. (Ed.). <i>Liberalismo. Da Teoria à Formação de Governos.</i> Coimbra: Almedina.
+* Ferrinho Lopes, H., & Figueira, P. (forthcoming). [Opções metodológicas fundamentais](https://www.dropbox.com/s/d3lmxwruxumwett/Cap%C3%ADtulo%20metodol%C3%B3gico%20v9%2022-04-2023.pdf?dl=0). In Costa, B. F. (Ed.). <i>Liberalismo. Da Teoria à Formação de Governos.</i> Coimbra: Almedina.
+    * Autonomous appendix with the methodological options of the two chapters above.
 * Ferrinho Lopes, H., Santana Pereira, J., & Nina, S. R. (forthcoming). [<i>Business as usual</i> ou novo normal? As campanhas presidenciais de 2021 em Portugal](https://www.dropbox.com/s/4r1bivgs6q3rkfm/HFL%2C%20JSP%20%26%20SRN%2022-03-2022%20revisto%20vers%C3%A3o%20final%203.pdf?dl=0). In Freire, A., Accornero, G., Queiroga, V., Santana Pereira, J., Rocha, H. B., & Asensio, M. (Eds.). <i>Da Austeridade à Pandemia. Portugal e a Europa entre as crises e as inovações</i>. Lisbon: Mundos Sociais.
 * Santos, N., & Ferrinho Lopes, H. (2023). A Produção académica em Portugal. In Camerlo, M. (Ed.). <i>[Democracia em Portugal 2022. Caderno do Observatório da Qualidade da Democracia](https://www.ics.ulisboa.pt/livros/democracia-em-portugal-2022)</i>. Lisbon: Imprensa de Ciências Sociais.
 * Costa, B. F., & Ferrinho Lopes, H. (2022). [Nonprofit and Government Relations](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003170563-18/nonprofit-government-relations-bruno-ferreira-costa-hugo-ferrinho-lopes?context=ubx&refId=e7773832-d07f-49c1-99e2-9634eed1fd0d). In Gonçalves, G., & Oliveira, E. (Eds.). <i>[The Routledge Handbook of Nonprofit Communication](https://www.routledge.com/The-Routledge-Handbook-of-Nonprofit-Communication/Goncalves-Oliveira/p/book/9780367771775)</i>. London: Routledge.
@@ -46,3 +47,22 @@ You can also check my <a href="https://scholar.google.pt/citations?user=vK-y0CYA
 * Ferrinho Lopes, H. (2017). [Salazarismo: autoritarismo ou fascismo? A União Nacional em perspectiva organizacional e comparativa](http://www.observatoriopolitico.pt/wp-content/uploads/2017/11/WP_76_HL.pdf). <i><b>Observatório Político</b>, Working Paper 76</i>, 1-17.
 * Ferrinho Lopes, H. (2016). [Os conceitos de liberdade e segurança em Thomas Hobbes: conjunção ou disjunção?](http://www.observatoriopolitico.pt/wp-content/uploads/2016/03/WP_59_HFL.pdf) <i><b>Observatório Político</b>, Working Paper 59</i>, 1-12.
 * Ferrinho Lopes, H. (2014). [As Virtudes do Homem Bom. Um paralelismo entre Platão e Aristóteles](http://www.lusosofia.net/textos/20140517-lopes_hugo_2014_virtudes_homem_bom.pdf). <b><i>LusoSofia</i></b>, 1-34.
+
+
+<!---
+# Working Papers
+- Online Research in Political Science: A Meta-Analysis of the Scope and Profile of a Rising Trend (2005-2019). (with [Ana M. Belchior](https://ciencia.iscte-iul.pt/authors/ana-maria-da-conceicao-belchior/cv), Viriato Queiroga and Ana Rezende-Matias)
+- Perception of poll results and strategic voting: the case of Portugal, 2022. (with [José Santana-Pereira](https://ciencia.iscte-iul.pt/authors/jose-santana-pereira/cv) and [Susana Rogeiro Nina](https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412))
+- Intra-party cohesion in Portugal. Member-party ideological incongruence at grassroots, mid-level and upper-level elites.
+- The political representation of young people at the local level. Evidence from two decades of municipal and parish terms.
+
+
+# Work in Progress
+- Democratic innovations and xxx (with [Miguel M. Pereira](https://miguelmpereira.com/) and [Jorge M. Fernandes](https://www.jorgemfernandes.com/))
+- Exposure to polls, late deciders, and strategic voting. A tale of three elections in Portugal. (with [José Santana-Pereira](https://ciencia.iscte-iul.pt/authors/jose-santana-pereira/cv) and [Susana Rogeiro Nina](https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412))
+- Political party ethics self-regulation. (with [Luís de Sousa](https://www.ics.ulisboa.pt/pessoa/luis-de-sousa), [Fernando Casal Bertoa](https://whogoverns.eu/biography/) and Lúcio Hanenberg)
+- Party youth wings. Organizational features and relations with mother parties (with [Brit Anlar](https://www.britanlar.com/), [Kira Kurtz](https://kirareneekurz.owlstown.net/) and [Ieva Hofmane](https://www.eui.eu/people?id=ieva-hofmane))
+- Young people and corruption perceptions in Spain and Portugal. (with [Gustavo Gouvêa Maciel](https://scholar.google.com/citations?user=po780s0AAAAJ&hl=en))
+
+
+--->
