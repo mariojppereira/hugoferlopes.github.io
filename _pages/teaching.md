@@ -5,6 +5,25 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Graduate
+
+Digital Politics. <i>Postgraduation in Political Psichology</i>, Lusófona University (2022/2023)
+
+
+## Undergraduate
+
+Local and Regional Politics. <i>BA in Political Science and International Relations</i>, University of Beira Interior (2021/2022)
+
+Political Analysis. <i>BA in Political Science and International Relations</i>, University of Beira Interior (2021/2022)
+
+International Organizations. <i>BA in Political Science and International Relations</i>, University of Beira Interior (2020/2021)
+
+European Union Institutions and Policies. <i>BA in Political Science and International Relations</i>, University of Beira Interior (2020/2021)
+
+Geopolitics and Strategy. <i>BA in Political Science and International Relations</i>, University of Beira Interior (2020/2021)
+
+
+
 ## Digital Politics
 
 Lusófona University, <i>Postgraduation in Political Psichology</i> (2022/2023)
