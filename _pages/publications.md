@@ -45,7 +45,7 @@ You can also check my <a href="https://scholar.google.pt/citations?user=vK-y0CYA
 * Ferrinho Lopes, H., Silveira, P., & Lopes, A. H. (2021). <i>[Sub-representação de uma Geração. Jovens na Assembleia da República, Governo e Parlamento Europeu (1976-2019)](https://www.opj.ics.ulisboa.pt/wp-content/uploads/ICS-Policy-Brief-2021.pdf)</i>. Research Brief. Lisbon: Permanent Youth Observatory.
   * Media coverage: [Público](https://www.publico.pt/2022/11/28/politica/noticia/aqui-ninguem-tweetou-debate-jovens-mostraram-querem-participar-2029537) and [Rádio Renascença](https://rr.sapo.pt/especial%5C/politica/2022/01/27/pedro-silveira-os-governos-nao-podem-ser-um-one-man-show/269893/). Outreach: [IPAM](https://www.ipam.pt/blog/participacao-jovem-na-era-digital/) and [Ecclesia](https://agencia.ecclesia.pt/portal/ha-uma-sub-representacao-cronica-das-novas-geracoes-na-politica-rita-saias/).
 
-## Other (peer-reviewed)
+## Other
 
 * Ferrinho Lopes, H. (2017). [Salazarismo: autoritarismo ou fascismo? A União Nacional em perspectiva organizacional e comparativa](http://www.observatoriopolitico.pt/wp-content/uploads/2017/11/WP_76_HL.pdf). <i><b>Observatório Político</b>, Working Paper 76</i>, 1-17.
 * Ferrinho Lopes, H. (2016). [Os conceitos de liberdade e segurança em Thomas Hobbes: conjunção ou disjunção?](http://www.observatoriopolitico.pt/wp-content/uploads/2016/03/WP_59_HFL.pdf) <i><b>Observatório Político</b>, Working Paper 59</i>, 1-12.
