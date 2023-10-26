@@ -1,11 +1,11 @@
 ---
 layout: archive
 title: "Research"
-permalink: /research/
+permalink: /publications/
 author_profile: true
 redirect_from: 
   - /wordpress/academic-papers/
-  - /publications
+  - /research
 ---
 
 You can also check my <a href="https://scholar.google.pt/citations?user=vK-y0CYAAAAJ&hl=pt-PT">Google Scholar profile</a>.
