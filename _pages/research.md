@@ -55,9 +55,8 @@ You can also check my <a href="https://scholar.google.pt/citations?user=vK-y0CYA
 
 <!---
 # Encyclopedia entries
-- Regime Support. (with Pedro C. Magalhães, Lúcio Hanenberg and David Pimenta). In Freire, A., Önudottir, E., Pedrazzani, A., & Schmitt, H. <i>Elgar Encyclopedia of Political Representation</i>. Cheltenham: Edward Elgar.
-- Growing citizens’ tolerance <i>vis-à-vis</i> authoritarian alternatives. (with Pedro C. Magalhães, Lúcio Hanenberg and David Pimenta). In Freire, A., Önudottir, E., Pedrazzani, A., & Schmitt, H. <i>Elgar Encyclopedia of Political Representation</i>. Cheltenham: Edward Elgar.
-
+- Regime Support. (with [Pedro C. Magalhães](https://www.pedro-magalhaes.org/), Lúcio Hanenberg and David Pimenta). In [Freire, A.](https://ciencia.iscte-iul.pt/authors/andre-renato-leonardo-neves-dos-santos-freire/cv), Önudottir, E., Pedrazzani, A., & Schmitt, H. <i>Elgar Encyclopedia of Political Representation</i>. Cheltenham: Edward Elgar.
+- Growing citizens’ tolerance <i>vis-à-vis</i> authoritarian alternatives. (with [Pedro C. Magalhães](https://www.pedro-magalhaes.org/), Lúcio Hanenberg and David Pimenta). In [Freire, A.](https://ciencia.iscte-iul.pt/authors/andre-renato-leonardo-neves-dos-santos-freire/cv), Önudottir, E., Pedrazzani, A., & Schmitt, H. <i>Elgar Encyclopedia of Political Representation</i>. Cheltenham: Edward Elgar.
 
 # Working Papers
 - Online Research in Political Science: A Meta-Analysis of the Scope and Profile of a Rising Trend (2005-2019). (with [Ana M. Belchior](https://ciencia.iscte-iul.pt/authors/ana-maria-da-conceicao-belchior/cv), Viriato Queiroga and Ana Rezende-Matias)
