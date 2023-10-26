@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: true
 redirect_from: 
   - /wordpress/academic-papers/
+  - /publications
 ---
 
 You can also check my <a href="https://scholar.google.pt/citations?user=vK-y0CYAAAAJ&hl=pt-PT">Google Scholar profile</a>.
