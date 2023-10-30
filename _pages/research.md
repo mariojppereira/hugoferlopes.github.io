@@ -24,7 +24,7 @@ You can also check my <a href="https://scholar.google.pt/citations?user=vK-y0CYA
 
 ## Books
 
-* Almeida, L. F. M., Costa, C., Gomes, N., Ferrinho Lopes, H., & Maia, T. (2023). <i>[A Participação dos Jovens nos Municípios e os Conselhos Municipais da Juventude](https://cvel.pt/ramel/livro-conselhos-nacionais-de-juventude/)</i>. Coimbra: ValorGlocal.
+* Almeida, L. F. M., Costa, C., Gomes, N., Ferrinho Lopes, H., & Maia, T. (2023). <i>[A Participação dos Jovens nos Municípios e os Conselhos Municipais da Juventude](https://www.aevst.com/wp-content/uploads/2023/10/Livro-Conselhos-Municipais-de-Juventude-1.pdf)</i>. Coimbra: ValorGlocal.
   * Media coverage: [Jornal de Notícias](https://www.jn.pt/2122761049/metade-dos-municipios-nao-tem-conselho-municipal-da-juventude/)
 
 ## Book chapters
@@ -33,7 +33,7 @@ You can also check my <a href="https://scholar.google.pt/citations?user=vK-y0CYA
 * Ferrinho Lopes, H. (forthcoming). [Famílias partidárias e executivos nacionais em seis democracias. Governos liberais em perspetiva comparada (2000-2020)](https://www.dropbox.com/s/esljwqlzyfblt5c/Cap%C3%ADtulo%204.%20HFL%20v4%2022-04-2023.pdf?dl=0). In Costa, B. F. (Ed.). <i>Liberalismo. Da Teoria à Formação de Governos</i>. Coimbra: Almedina.
 * Ferrinho Lopes, H., & Figueira, P. (forthcoming). [Elites ministeriais e recrutamento de partidos liberais em seis democracias europeias (2000-2020)](https://www.dropbox.com/s/v3nxleojis0i1ab/Cap%C3%ADtulo%205.%20HFL%20%26%20PF%20v5%2022-04-2023.pdf?dl=0). In Costa, B. F. (Ed.). <i>Liberalismo. Da Teoria à Formação de Governos</i>. Coimbra: Almedina.
 * Ferrinho Lopes, H., & Figueira, P. (forthcoming). [Opções metodológicas fundamentais](https://www.dropbox.com/s/d3lmxwruxumwett/Cap%C3%ADtulo%20metodol%C3%B3gico%20v9%2022-04-2023.pdf?dl=0). In Costa, B. F. (Ed.). <i>Liberalismo. Da Teoria à Formação de Governos.</i> Coimbra: Almedina.
-    * Autonomous appendix with the methodological options of the two chapters above.
+    * Autonomous appendix with the empirical strategy of the two chapters above.
 * Ferrinho Lopes, H., Santana Pereira, J., & Nina, S. R. (forthcoming). [<i>Business as usual</i> ou novo normal? As campanhas presidenciais de 2021 em Portugal](https://www.dropbox.com/s/4r1bivgs6q3rkfm/HFL%2C%20JSP%20%26%20SRN%2022-03-2022%20revisto%20vers%C3%A3o%20final%203.pdf?dl=0). In Freire, A., Accornero, G., Queiroga, V., Santana Pereira, J., Rocha, H. B., & Asensio, M. (Eds.). <i>Da Austeridade à Pandemia. Portugal e a Europa entre as crises e as inovações</i>. Lisbon: Mundos Sociais.
 * Santos, N., & Ferrinho Lopes, H. (2023). A Produção académica em Portugal. In Camerlo, M. (Ed.). <i>[Democracia em Portugal 2022. Caderno do Observatório da Qualidade da Democracia](https://www.ics.ulisboa.pt/livros/democracia-em-portugal-2022)</i>. Lisbon: Imprensa de Ciências Sociais.
 * Costa, B. F., & Ferrinho Lopes, H. (2022). [Nonprofit and Government Relations](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003170563-18/nonprofit-government-relations-bruno-ferreira-costa-hugo-ferrinho-lopes?context=ubx&refId=e7773832-d07f-49c1-99e2-9634eed1fd0d). In Gonçalves, G., & Oliveira, E. (Eds.). <i>[The Routledge Handbook of Nonprofit Communication](https://www.routledge.com/The-Routledge-Handbook-of-Nonprofit-Communication/Goncalves-Oliveira/p/book/9780367771775)</i>. London: Routledge.
