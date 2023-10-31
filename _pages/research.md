@@ -56,15 +56,14 @@ You can also check my <a href="https://scholar.google.pt/citations?user=vK-y0CYA
 
 <!---
 # Encyclopedia entries
-- Regime Support. (with [Pedro C. Magalhães](https://www.pedro-magalhaes.org/), Lúcio Hanenberg and David Pimenta). In [Freire, A.](https://ciencia.iscte-iul.pt/authors/andre-renato-leonardo-neves-dos-santos-freire/cv), Önudottir, E., Pedrazzani, A., & Schmitt, H. <i>Elgar Encyclopedia of Political Representation</i>. Cheltenham: Edward Elgar.
-- Growing citizens’ tolerance <i>vis-à-vis</i> authoritarian alternatives. (with [Pedro C. Magalhães](https://www.pedro-magalhaes.org/), Lúcio Hanenberg and David Pimenta). In [Freire, A.](https://ciencia.iscte-iul.pt/authors/andre-renato-leonardo-neves-dos-santos-freire/cv), Önudottir, E., Pedrazzani, A., & Schmitt, H. <i>Elgar Encyclopedia of Political Representation</i>. Cheltenham: Edward Elgar.
+- Regime Support. (with [Pedro C. Magalhães](https://www.pedro-magalhaes.org/), Lúcio Hanenberg and David Pimenta). Entry for the <i>Elgar Encyclopedia of Political Representation</i>, edited by André Freire, Eva Önudottir, Andrea Pedrazzani, and Hermann Schmitt. Cheltenham: Edward Elgar.
+- Growing citizens’ tolerance <i>vis-à-vis</i> authoritarian alternatives. (with [Pedro C. Magalhães](https://www.pedro-magalhaes.org/), Lúcio Hanenberg and David Pimenta). Entry for the <i>Elgar Encyclopedia of Political Representation</i>, edited by André Freire, Eva Önudottir, Andrea Pedrazzani, and Hermann Schmitt. Cheltenham: Edward Elgar.
 
 # Working Papers
 - Online Research in Political Science: A Meta-Analysis of the Scope and Profile of a Rising Trend (2005-2019). (with [Ana M. Belchior](https://ciencia.iscte-iul.pt/authors/ana-maria-da-conceicao-belchior/cv), Viriato Queiroga and Ana Rezende-Matias)
 - Perception of poll results and strategic voting: the case of Portugal, 2022. (with [José Santana-Pereira](https://ciencia.iscte-iul.pt/authors/jose-santana-pereira/cv) and [Susana Rogeiro Nina](https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412))
-- Intra-party cohesion in Portugal. Member-party ideological incongruence at grassroots, mid-level and upper-level elites.
-- The political representation of young people at the local level. Evidence from two decades of municipal and parish terms.
-
+- Satisfaction with intra-party functioning at grassroots, mid-level and upper-level elites.
+- Youth political representation at the local level.
 
 # Work in Progress
 - Democratic innovations and xxx (with [Miguel M. Pereira](https://miguelmpereira.com/) and [Jorge M. Fernandes](https://www.jorgemfernandes.com/))
