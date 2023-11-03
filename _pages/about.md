@@ -13,7 +13,7 @@ Thank you for your visit!
 
 I am a PhD candidate in Comparative Politics at the [Institute of Social Sciences, University of Lisbon](https://www.ics.ulisboa.pt/). Currently, I am visiting PhD researcher at the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences).
 
-I am interested in political institutions (particularly, political parties), political representation, elections, political attitudes and behavior and youth in politics. My work has been published, inter alia, in <i>West European Politics</i>, <i>International Political Science Review</i>, <i>Journal of Elections, Public Opinion and Parties</i>, and <i>Transfer: European Review of Labour and Research</i>. 
+I am interested in political institutions (particularly, political parties), political representation, elections, political attitudes and behavior and youth in politics. My work has been published, inter alia, in <i>West European Politics</i>, <i>International Political Science Review</i>, and <i>Journal of Elections, Public Opinion and Parties</i>. 
 
 Here you can find more about me, my [research](https://hugoferrinholopes.github.io/publications/), access some [teaching materials](https://hugoferrinholopes.github.io/teaching/) and view my [short CV](https://hugoferrinholopes.github.io/cv/).
 
