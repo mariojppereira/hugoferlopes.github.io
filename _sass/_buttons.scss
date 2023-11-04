@@ -122,16 +122,20 @@
   (twitter, $twitter-color),
   (google-plus, $google-plus-color),
   (linkedin, $linkedin-color);
-
+  (mastodon, $mastodon-color);
+   
   @each $socialnetwork, $color in $social {
     &--#{$socialnetwork} {
-      background-color: $color;
-
+      color: #fff !important;
+      background-color: $color !important;
+      border: 0 !important;
       &:hover {
-        background-color: mix(#000, $color, 20%);
+        color: #fff !important;
+        background-color: mix(#000, $color, 20%) !important;
       }
     }
   }
+
 
   /* extra large button */
 
