@@ -72,9 +72,3 @@ You can also check my <a href="https://scholar.google.pt/citations?user=vK-y0CYA
 - Young people and corruption perceptions in Spain and Portugal. (with [Gustavo Gouvêa Maciel](https://scholar.google.com/citations?user=po780s0AAAAJ&hl=en))
 
 --->
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
