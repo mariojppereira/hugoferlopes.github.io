@@ -53,6 +53,7 @@ You can also check my <a href="https://scholar.google.pt/citations?user=vK-y0CYA
 * Ferrinho Lopes, H. (2016). [Os conceitos de liberdade e segurança em Thomas Hobbes: conjunção ou disjunção?](http://www.observatoriopolitico.pt/wp-content/uploads/2016/03/WP_59_HFL.pdf) <i>Observatório Político</i>, Working Paper 59, 1-12.
 * Ferrinho Lopes, H. (2014). [As Virtudes do Homem Bom. Um paralelismo entre Platão e Aristóteles](http://www.lusosofia.net/textos/20140517-lopes_hugo_2014_virtudes_homem_bom.pdf). <i>LusoSofia</i>, 1-34.
 
+</font>
 
 <!---
 # Encyclopedia entries
