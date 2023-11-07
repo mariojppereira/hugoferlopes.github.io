@@ -11,6 +11,7 @@ redirect_from:
 You can also check my <a href="https://scholar.google.pt/citations?user=vK-y0CYAAAAJ&hl=pt-PT">Google Scholar profile</a>.
 
 <font size="-1">
+  
 ## Journal Articles
 
 
