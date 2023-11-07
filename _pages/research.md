@@ -10,18 +10,17 @@ redirect_from:
 
 You can also check my <a href="https://scholar.google.pt/citations?user=vK-y0CYAAAAJ&hl=pt-PT">Google Scholar profile</a>.
 
-<font size="-1">
   
 ## Journal Articles
 
-
-* Ferrinho Lopes, H., & Lisi, M. (forthcoming). [Until another party do us part? Party members’ electoral disloyalty in Portugal](https://www.dropbox.com/scl/fi/dpejecbe7enje9isrnmv2/HFerrinhoLopes_MLisi_JEPOP-accepted-version.pdf?rlkey=zw3xrpebu3ftxs5pff9wd2ewq&dl=0). <b><i>Journal of Elections, Public Opinion and Parties</i></b>. 
+* <font size="-1">Ferrinho Lopes, H., & Lisi, M. (forthcoming). [Until another party do us part? Party members’ electoral disloyalty in Portugal](https://www.dropbox.com/scl/fi/dpejecbe7enje9isrnmv2/HFerrinhoLopes_MLisi_JEPOP-accepted-version.pdf?rlkey=zw3xrpebu3ftxs5pff9wd2ewq&dl=0). <b><i>Journal of Elections, Public Opinion and Parties</i></b>. </font>
 * Belchior, A. M., Ferrinho Lopes, H., Cabrita, L., & Tsatsanis, E. (2023). [Party policy responsiveness at the agenda-setting and decision-making stages: The mediating effect of the types of government and promise](https://journals.sagepub.com/doi/pdf/10.1177/01925121231155140). <b><i>International Political Science Review</i></b>. Online First. DOI: 10.1177/01925121231155140. [[Supplemental material](https://journals.sagepub.com/doi/suppl/10.1177/01925121231155140/suppl_file/sj-docx-1-ips-10.1177_01925121231155140.docx)]
 * Ferrinho Lopes, H. (2023). [An unexpected Socialist majority: the 2022 Portuguese general elections](https://www.tandfonline.com/doi/pdf/10.1080/01402382.2022.2070983?casa_token=LcYisGvvnAgAAAAA:crAT_E-1iAN4OAOFmhm-S3WVaQplB5ayAlIESzTYBNLhh7yegYlg9JL5K7w0uOAvdUJYpASwsS0Lwg). <b><i>West European Politics</i></b>. 46(2), 437-450.
 * Santana-Pereira, J., Ferrinho Lopes, H., & Nina, S. R. (2023). [Sailing Uncharted Waters with Old Boats: COVID-19 and the digitalization and professionalization of presidential campaigns in Portugal](https://www.mdpi.com/2076-0760/12/1/45). <b><i>Social Sciences</i></b>. 12(1), 45.
 * Nascimento, A., & Ferrinho Lopes, H. (2020). [How we have been productive when Coronavirus locked us out of University](https://repositorio.ul.pt/bitstream/10451/45557/1/ICS_ANascimento_How.pdf). <b><i>Fennia – International Journal of Geography</i></b>, 198(1–2), 243-246.
 * Freire, A., Cabrita, L., Duarte, M. C., & Ferrinho Lopes, H. (2017). [Workers’ EU political alignments during the Great Recession](https://journals.sagepub.com/doi/10.1177/1024258917696239). <b><i>Transfer: European Review of Labour and Research</i></b>, 23(4), 387-408. [Supplemental materials: [1](https://journals.sagepub.com/doi/suppl/10.1177/1024258917696239/suppl_file/trs696239_supplementary_material_appendix_1.pdf), [2](https://journals.sagepub.com/doi/suppl/10.1177/1024258917696239/suppl_file/trs696239_supplementary_material_appendix_2.pdf), [3](https://journals.sagepub.com/doi/suppl/10.1177/1024258917696239/suppl_file/trs696239_supplementary_material_appendix_3.pdf), [4](https://journals.sagepub.com/doi/suppl/10.1177/1024258917696239/suppl_file/trs696239_supplementary_material_appendix_4.pdf), [5](https://journals.sagepub.com/doi/suppl/10.1177/1024258917696239/suppl_file/trs696239_supplementary_material_appendix_5.pdf)] 
   * Awards: Iscte-IUL Scientific Prize 
+
 
 ## Books
 
@@ -53,7 +52,7 @@ You can also check my <a href="https://scholar.google.pt/citations?user=vK-y0CYA
 * Ferrinho Lopes, H. (2016). [Os conceitos de liberdade e segurança em Thomas Hobbes: conjunção ou disjunção?](http://www.observatoriopolitico.pt/wp-content/uploads/2016/03/WP_59_HFL.pdf) <i>Observatório Político</i>, Working Paper 59, 1-12.
 * Ferrinho Lopes, H. (2014). [As Virtudes do Homem Bom. Um paralelismo entre Platão e Aristóteles](http://www.lusosofia.net/textos/20140517-lopes_hugo_2014_virtudes_homem_bom.pdf). <i>LusoSofia</i>, 1-34.
 
-</font>
+
 
 <!---
 # Encyclopedia entries
