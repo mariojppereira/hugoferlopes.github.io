@@ -61,7 +61,7 @@ You can also check my <a href="https://scholar.google.pt/citations?user=vK-y0CYA
 
 # Working Papers
 - Online Research in Political Science: A Meta-Analysis of the Scope and Profile of a Rising Trend (2005-2019). (with [Ana M. Belchior](https://ciencia.iscte-iul.pt/authors/ana-maria-da-conceicao-belchior/cv), Viriato Queiroga and Ana Rezende-Matias)
-- Perception of poll results and strategic voting: the case of Portugal, 2022. (with [José Santana-Pereira](https://ciencia.iscte-iul.pt/authors/jose-santana-pereira/cv) and [Susana Rogeiro Nina](https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412))
+- Perception of poll results, and strategic voting. A tale of two elections in Portugal. (with [José Santana-Pereira](https://ciencia.iscte-iul.pt/authors/jose-santana-pereira/cv) and [Susana Rogeiro Nina](https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412))
 - Satisfaction with intra-party functioning at grassroots, mid-level and upper-level elites.
 - Youth political representation at the local level.
 
