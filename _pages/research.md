@@ -56,20 +56,20 @@ You can also check my <a href="https://scholar.google.pt/citations?user=vK-y0CYA
 
 <!---
 # Encyclopedia entries
-- Regime Support. (with [Pedro C. Magalhães](https://www.pedro-magalhaes.org/), Lúcio Hanenberg and David Pimenta). Entry for the <i>Elgar Encyclopedia of Political Representation</i>, edited by André Freire, Eva Önudottir, Andrea Pedrazzani, and Hermann Schmitt. Cheltenham: Edward Elgar.
-- Growing citizens’ tolerance <i>vis-à-vis</i> authoritarian alternatives. (with [Pedro C. Magalhães](https://www.pedro-magalhaes.org/), Lúcio Hanenberg and David Pimenta). Entry for the <i>Elgar Encyclopedia of Political Representation</i>, edited by André Freire, Eva Önudottir, Andrea Pedrazzani, and Hermann Schmitt. Cheltenham: Edward Elgar.
+- Regime Support. (with [Pedro C. Magalhães](https://www.pedro-magalhaes.org/), [Lúcio Hanenberg](https://www.ics.ulisboa.pt/pessoa/lucio-hanenberg) and [David Pimenta](https://www.ics.ulisboa.pt/pessoa/david-pimenta)). Entry for the <i>Elgar Encyclopedia of Political Representation</i>, edited by André Freire, Eva Önudottir, Andrea Pedrazzani, and Hermann Schmitt. Cheltenham: Edward Elgar.
+- Growing citizens’ tolerance <i>vis-à-vis</i> authoritarian alternatives. (with [Pedro C. Magalhães](https://www.pedro-magalhaes.org/), [Lúcio Hanenberg](https://www.ics.ulisboa.pt/pessoa/lucio-hanenberg) and [David Pimenta](https://www.ics.ulisboa.pt/pessoa/david-pimenta)). Entry for the <i>Elgar Encyclopedia of Political Representation</i>, edited by André Freire, Eva Önudottir, Andrea Pedrazzani, and Hermann Schmitt. Cheltenham: Edward Elgar.
 
 # Working Papers
-- Online Research in Political Science: A Meta-Analysis of the Scope and Profile of a Rising Trend (2005-2019). (with [Ana M. Belchior](https://ciencia.iscte-iul.pt/authors/ana-maria-da-conceicao-belchior/cv), Viriato Queiroga and Ana Rezende-Matias)
-- Perception of poll results, and strategic voting. A tale of two elections in Portugal. (with [José Santana-Pereira](https://ciencia.iscte-iul.pt/authors/jose-santana-pereira/cv) and [Susana Rogeiro Nina](https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412))
-- Satisfaction with intra-party functioning at grassroots, mid-level and upper-level elites.
-- Youth political representation at the local level.
+- Moving online? The use of web surveys in political science research (2005-2019). (with [Ana M. Belchior](https://ciencia.iscte-iul.pt/authors/ana-maria-da-conceicao-belchior/cv), Viriato Queiroga and Ana Rezende-Matias)
 
 # Work in Progress
+- Perception of poll results and strategic voting. (with [José Santana-Pereira](https://ciencia.iscte-iul.pt/authors/jose-santana-pereira/cv) and [Susana Rogeiro Nina](https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412))
+- Political party ethics self-regulation. (with [Luís de Sousa](https://www.ics.ulisboa.pt/pessoa/luis-de-sousa), [Fernando Casal Bertoa](https://whogoverns.eu/biography/) and [Lúcio Hanenberg](https://www.ics.ulisboa.pt/pessoa/lucio-hanenberg))
+- Party Youth Wing Organization. (with [Brit Anlar](https://www.britanlar.com/), [Kira R. Kurz](https://kirareneekurz.owlstown.net/) and [Ieva Hofmane](https://www.eui.eu/people?id=ieva-hofmane)).
+- Youth representation in local politics.
+- Young people and corruption perceptions in Spain and Portugal. (with [Gustavo Gouvêa Maciel](https://scholar.google.com/citations?user=po780s0AAAAJ&hl=en))
+
 - Democratic innovations and xxx (with [Miguel M. Pereira](https://miguelmpereira.com/) and [Jorge M. Fernandes](https://www.jorgemfernandes.com/))
 - Exposure to polls, late deciders, and strategic voting. A tale of three elections in Portugal. (with [José Santana-Pereira](https://ciencia.iscte-iul.pt/authors/jose-santana-pereira/cv) and [Susana Rogeiro Nina](https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412))
-- Political party ethics self-regulation. (with [Luís de Sousa](https://www.ics.ulisboa.pt/pessoa/luis-de-sousa), [Fernando Casal Bertoa](https://whogoverns.eu/biography/) and Lúcio Hanenberg)
-- Party youth wings. Organizational features and relations with mother parties (with [Brit Anlar](https://www.britanlar.com/), [Kira Kurtz](https://kirareneekurz.owlstown.net/) and [Ieva Hofmane](https://www.eui.eu/people?id=ieva-hofmane))
-- Young people and corruption perceptions in Spain and Portugal. (with [Gustavo Gouvêa Maciel](https://scholar.google.com/citations?user=po780s0AAAAJ&hl=en))
 
 --->
