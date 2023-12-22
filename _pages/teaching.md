@@ -38,5 +38,6 @@ author_profile: true
 
 ## Supervision
 
+- Eduardo Bonifácio, master thesis, supervisor. Porto Accounting and Business School (ISCAP). Expected 2024.
 - Diana Sousa Cordeiro, master internship report, co-supervisor (with Sofia Serra-Silva as supervisor and Pedro Silveira as co-supervisor). University of Beira Interior. Finished 2023.
 - Hilma Raquel Rodríguez Lopes, master thesis, co-supervisor (with Liliana Reis as supervisor). University of Beira Interior. Finished 2022.
