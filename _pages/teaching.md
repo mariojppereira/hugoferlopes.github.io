@@ -21,6 +21,10 @@ author_profile: true
 
 ## Guest lectures
 
+<!---
+- "Party system and political parties in Portugal," short course for adults (invited by Sofia Serra-Silva), ICS, University of Lisbon. (xx/04/2024).
+--->
+
 - "Political parties," short course on Local, National and International Political Analysis (invited by Pedro Silveira), University of Beira Interior, Online. (23/10/2023).
 - "Political parties and citizen electoral groups," short course on Municipal Law (invited by Luís F. Mota Almeida, Tiago Serrão, and Manuel Ferreira Ramos), Coimbra Business School (with the National Association of Municipal Assemblies and Center for the Valorization of Local Elected Representatives), Online. (17/10/2023).
 - "The political system of the United Kingdom," BA in Political Science and International Relations (invited by Vinicius Albernaz), University of Beira Interior. (03/03/2023)
