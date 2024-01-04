@@ -56,8 +56,8 @@ You can also check my <a href="https://scholar.google.pt/citations?user=vK-y0CYA
 
 <!---
 # Encyclopedia entries
-- Regime Support. (with [Pedro C. Magalhães](https://www.pedro-magalhaes.org/), [Lúcio Hanenberg](https://www.ics.ulisboa.pt/pessoa/lucio-hanenberg) and [David Pimenta](https://www.ics.ulisboa.pt/pessoa/david-pimenta)). Entry for the <i>Elgar Encyclopedia of Political Representation</i>, edited by André Freire, Eva Önudottir, Andrea Pedrazzani, and Hermann Schmitt. Cheltenham: Edward Elgar.
-- Growing citizens’ tolerance <i>vis-à-vis</i> authoritarian alternatives. (with [Pedro C. Magalhães](https://www.pedro-magalhaes.org/), [Lúcio Hanenberg](https://www.ics.ulisboa.pt/pessoa/lucio-hanenberg) and [David Pimenta](https://www.ics.ulisboa.pt/pessoa/david-pimenta)). Entry for the <i>Elgar Encyclopedia of Political Representation</i>, edited by André Freire, Eva Önudottir, Andrea Pedrazzani, and Hermann Schmitt. Cheltenham: Edward Elgar.
+- Ferrinho Lopes, H., Hanenberg, L., Pimenta, D., & Magalhães, P. C. (forthcoming). Regime Support. In Freire, A., Önudottir, E., Pedrazzani, A., \& Schmitt, H. (Eds.). <i>Elgar Encyclopedia of Political Representation</i>. Cheltenham: Edward Elgar.
+- Pimenta, D., Hanenberg, L., Ferrinho Lopes, H., & Magalhães, P. C. (forthcoming). <i>Growing citizens’ tolerance \textit{vis-à-vis} authoritarian alternatives</i>. In Freire, A., Önudottir, E., Pedrazzani, A., \& Schmitt, H. (Eds.). <i>Elgar Encyclopedia of Political Representation</i>. Cheltenham: Edward Elgar.
 
 # Working Papers
 - Moving online? The use of web surveys in political science research (2005-2019). (with [Ana M. Belchior](https://ciencia.iscte-iul.pt/authors/ana-maria-da-conceicao-belchior/cv), Viriato Queiroga and Ana Rezende-Matias)
