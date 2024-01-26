@@ -8,7 +8,7 @@ redirect_from:
   - /publications/
 ---
 
-You can also check my <a href="https://scholar.google.pt/citations?user=vK-y0CYAAAAJ&hl=pt-PT">Google Scholar profile</a>.
+Drop me an email if you can not get to any of the publications listed below. You can also check my <a href="https://scholar.google.pt/citations?user=vK-y0CYAAAAJ&hl=pt-PT">Google Scholar profile</a>.
 
   
 ## Journal Articles
